@@ -23,3 +23,5 @@ Since in LeetCode, there are in function questions therefore in order to use the
 Delete the function argument variables as they are already declared in the leetcode code function.
 
 Also the print statements need to be replaced by the return statement.
+
+One can just replace the functions in the question to the function in the files of the repositories.
