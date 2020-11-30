@@ -1,6 +1,9 @@
 # Leetcode-CPP-Answers
 My solutions for LeetCode questions in CPP
 
+To reach all the .cpp file in the repository, go to the Leetcode-CPP-Answers folder.
+There you can find all the solutions named same as the question name.
+
 This repository contains the solutions for LeetCode Questions, The language of choice is CPP ( C++ ).
 
 # How to test
