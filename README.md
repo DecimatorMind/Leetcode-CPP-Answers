@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Language-Swift-orange)
+![](https://img.shields.io/badge/Language-LeetCode-yellow)
+
 # Leetcode-CPP-Answers
 My solutions for LeetCode questions in CPP
 
