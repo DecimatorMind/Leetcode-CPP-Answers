@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Language-Swift-orange)
+![](https://img.shields.io/badge/Language-C++-blue)
 ![](https://img.shields.io/badge/Language-LeetCode-yellow)
 
 # Leetcode-CPP-Answers
