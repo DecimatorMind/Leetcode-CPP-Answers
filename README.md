@@ -12,18 +12,6 @@ If you wish to use the Xcode project, there is a main function where you can cre
 
 This repository contains the solutions for LeetCode Questions, The language of choice is CPP ( C++ ).
 
-# How to test
-The CPP files, contains variables initialised in the following format.
- 
-    int i {};
-
-To initialise the variable enter the value in the {} like:
-
-    int i {1};
-
-and run the file.
-
-
 # How to use
 Before running the project, please change the name of the function to the "main".
 
@@ -36,4 +24,3 @@ Also the print statements need to be replaced by the return statement.
 One can just replace the functions in the question to the function in the files of the repositories.
 
 Please upvote the solutions in Leetcode for the username *PranjalB*.
-
