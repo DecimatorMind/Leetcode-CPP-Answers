@@ -14,6 +14,7 @@
 		1016049124E7C2D100DD5712 /* Find_N_Unique_Integers_Sum_up_to_Zero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1016049024E7C2D100DD5712 /* Find_N_Unique_Integers_Sum_up_to_Zero.cpp */; };
 		1027E2742570C34600BEBA2E /* Minimum_Absolute_Difference.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1027E2732570C34600BEBA2E /* Minimum_Absolute_Difference.cpp */; };
 		102BD23E25404C120044D47D /* Maximum_Nesting_Depth_of_the_Parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 102BD23D25404C120044D47D /* Maximum_Nesting_Depth_of_the_Parentheses.cpp */; };
+		10342F6425815C36006EEAC7 /* Richest_Customer_Wealth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10342F6325815C36006EEAC7 /* Richest_Customer_Wealth.cpp */; };
 		1038E02224D8A153001A9214 /* Valid_Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1038E02124D8A153001A9214 /* Valid_Palindrome.cpp */; };
 		10458AB224D2BE2800ACCFC2 /* Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10458AB124D2BE2800ACCFC2 /* Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.cpp */; };
 		10458AB424D2C16B00ACCFC2 /* Decompress_Run-Length_Encoded_List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10458AB324D2C16B00ACCFC2 /* Decompress_Run-Length_Encoded_List.cpp */; };
@@ -37,6 +38,7 @@
 		109C441E250DB8B0001C77B5 /* Array_Partition_I.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 109C441D250DB8B0001C77B5 /* Array_Partition_I.cpp */; };
 		10A6DA0B251A5F7700FD8549 /* Matrix_Diagonal_Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10A6DA0A251A5F7700FD8549 /* Matrix_Diagonal_Sum.cpp */; };
 		10A7BD912566DAF300AED297 /* Reverse_Words_in_a_String_III.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10A7BD902566DAF300AED297 /* Reverse_Words_in_a_String_III.cpp */; };
+		10AAAD76258160AA0096F1EE /* Goal_Parser_Interpretation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10AAAD75258160AA0096F1EE /* Goal_Parser_Interpretation.cpp */; };
 		10B17A4124FA459E00E10CFC /* N-Repeated_Element_in_Size_2N_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10B17A4024FA459E00E10CFC /* N-Repeated_Element_in_Size_2N_Array.cpp */; };
 		10B5FFD1250A6774005B6E0F /* DI_String_Match.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10B5FFD0250A6774005B6E0F /* DI_String_Match.cpp */; };
 		10B5FFD3250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10B5FFD2250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp */; };
@@ -83,6 +85,7 @@
 		1016049024E7C2D100DD5712 /* Find_N_Unique_Integers_Sum_up_to_Zero.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Find_N_Unique_Integers_Sum_up_to_Zero.cpp; sourceTree = "<group>"; };
 		1027E2732570C34600BEBA2E /* Minimum_Absolute_Difference.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Minimum_Absolute_Difference.cpp; sourceTree = "<group>"; };
 		102BD23D25404C120044D47D /* Maximum_Nesting_Depth_of_the_Parentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Maximum_Nesting_Depth_of_the_Parentheses.cpp; sourceTree = "<group>"; };
+		10342F6325815C36006EEAC7 /* Richest_Customer_Wealth.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Richest_Customer_Wealth.cpp; sourceTree = "<group>"; };
 		1038E02124D8A153001A9214 /* Valid_Palindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Valid_Palindrome.cpp; sourceTree = "<group>"; };
 		10458AB124D2BE2800ACCFC2 /* Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.cpp; sourceTree = "<group>"; };
 		10458AB324D2C16B00ACCFC2 /* Decompress_Run-Length_Encoded_List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Decompress_Run-Length_Encoded_List.cpp"; sourceTree = "<group>"; };
@@ -107,6 +110,7 @@
 		109C441D250DB8B0001C77B5 /* Array_Partition_I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Array_Partition_I.cpp; sourceTree = "<group>"; };
 		10A6DA0A251A5F7700FD8549 /* Matrix_Diagonal_Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Matrix_Diagonal_Sum.cpp; sourceTree = "<group>"; };
 		10A7BD902566DAF300AED297 /* Reverse_Words_in_a_String_III.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Reverse_Words_in_a_String_III.cpp; sourceTree = "<group>"; };
+		10AAAD75258160AA0096F1EE /* Goal_Parser_Interpretation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Goal_Parser_Interpretation.cpp; sourceTree = "<group>"; };
 		10B17A4024FA459E00E10CFC /* N-Repeated_Element_in_Size_2N_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "N-Repeated_Element_in_Size_2N_Array.cpp"; sourceTree = "<group>"; };
 		10B5FFD0250A6774005B6E0F /* DI_String_Match.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DI_String_Match.cpp; sourceTree = "<group>"; };
 		10B5FFD2250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Squares_of_a_Sorted_Array.cpp; sourceTree = "<group>"; };
@@ -191,8 +195,10 @@
 				10B9AF9324E0E337000E50F7 /* Destination_City.cpp */,
 				10D97FBB24E3895400D591C7 /* Unique_Morse_Code_Words.cpp */,
 				10E1105924E6B51700E4D9F5 /* Decrypt_String_from_Alphabet_to_Integer_Mapping.cpp */,
+				10AAAD75258160AA0096F1EE /* Goal_Parser_Interpretation.cpp */,
 				1016048E24E7BEBD00DD5712 /* Count_Negative_Numbers_in_a_Sorted_Matrix.cpp */,
 				1016049024E7C2D100DD5712 /* Find_N_Unique_Integers_Sum_up_to_Zero.cpp */,
+				10342F6325815C36006EEAC7 /* Richest_Customer_Wealth.cpp */,
 				1073BA9225780E2A00B798BA /* Check_Array_Formation_Through_Concatenation.cpp */,
 				1027E2732570C34600BEBA2E /* Minimum_Absolute_Difference.cpp */,
 				10F9E63825720B040014E512 /* N-ary_Tree_Preorder_Traversal.cpp */,
@@ -296,6 +302,7 @@
 				1073BA9325780E2A00B798BA /* Check_Array_Formation_Through_Concatenation.cpp in Sources */,
 				10588D4624CD8F0800823B62 /* Running_Sum_of_1d_Array.cpp in Sources */,
 				1013B85F24F1655000F8C329 /* Increasing_Decreasing_String.cpp in Sources */,
+				10342F6425815C36006EEAC7 /* Richest_Customer_Wealth.cpp in Sources */,
 				10C05B0325078ACD00233AD4 /* Hamming_Distance.cpp in Sources */,
 				109222F124CE66F2002826DF /* Number_of_Good_Pairs.cpp in Sources */,
 				10588D4D24CDC1AF00823B62 /* Shuffle_the_Array.cpp in Sources */,
@@ -306,6 +313,7 @@
 				109C441E250DB8B0001C77B5 /* Array_Partition_I.cpp in Sources */,
 				1056E8CE24F3558C000C04AA /* Generate_a_String_With_Characters_That_Have_Odd_Counts.cpp in Sources */,
 				10B5FFD3250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp in Sources */,
+				10AAAD76258160AA0096F1EE /* Goal_Parser_Interpretation.cpp in Sources */,
 				10458AB624D2C9DC00ACCFC2 /* Create_Target_Array_in_the_Given_Order.cpp in Sources */,
 				10A6DA0B251A5F7700FD8549 /* Matrix_Diagonal_Sum.cpp in Sources */,
 				10A7BD912566DAF300AED297 /* Reverse_Words_in_a_String_III.cpp in Sources */,
