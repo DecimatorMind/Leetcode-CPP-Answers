@@ -26,6 +26,7 @@
 		10588D4624CD8F0800823B62 /* Running_Sum_of_1d_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10588D4524CD8F0800823B62 /* Running_Sum_of_1d_Array.cpp */; };
 		10588D4D24CDC1AF00823B62 /* Shuffle_the_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10588D4C24CDC1AF00823B62 /* Shuffle_the_Array.cpp */; };
 		105E86E024D6DEA500597FAC /* To_Lower_Case.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 105E86DF24D6DEA500597FAC /* To_Lower_Case.cpp */; };
+		1068F28A2598C7D700C66CD3 /* Check_If_Two_String_Arrays_are_Equivalent.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1068F2892598C7D700C66CD3 /* Check_If_Two_String_Arrays_are_Equivalent.cpp */; };
 		106A3ABA24D839DB00B7F186 /* Count_Good_Triplets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106A3AB924D839DB00B7F186 /* Count_Good_Triplets.cpp */; };
 		1073BA9325780E2A00B798BA /* Check_Array_Formation_Through_Concatenation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1073BA9225780E2A00B798BA /* Check_Array_Formation_Through_Concatenation.cpp */; };
 		107E63ED256F74D4003A5D21 /* Build_an_Array_With_Stack_Operations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 107E63EC256F74D4003A5D21 /* Build_an_Array_With_Stack_Operations.cpp */; };
@@ -47,6 +48,7 @@
 		10C9575E24CF539800AE8F32 /* Defanging_an_IP_Address.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C9575D24CF539800AE8F32 /* Defanging_an_IP_Address.cpp */; };
 		10C9576024CF566F00AE8F32 /* Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C9575F24CF566F00AE8F32 /* Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp */; };
 		10CF679B24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10CF679A24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp */; };
+		10D030A425A0733C006B4B25 /* Count_of_Matches_in_Tournament.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D030A325A0733C006B4B25 /* Count_of_Matches_in_Tournament.cpp */; };
 		10D8D8B3256E2346007DBAC9 /* Fibonacci_Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D8D8B2256E2346007DBAC9 /* Fibonacci_Number.cpp */; };
 		10D92FA624D066AA003566B2 /* Jewels_and_Stones.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D92FA524D066AA003566B2 /* Jewels_and_Stones.cpp */; };
 		10D92FA924D06C64003566B2 /* Shuffle_String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D92FA824D06C63003566B2 /* Shuffle_String.cpp */; };
@@ -98,6 +100,7 @@
 		10588D4524CD8F0800823B62 /* Running_Sum_of_1d_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Running_Sum_of_1d_Array.cpp; sourceTree = "<group>"; };
 		10588D4C24CDC1AF00823B62 /* Shuffle_the_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Shuffle_the_Array.cpp; sourceTree = "<group>"; };
 		105E86DF24D6DEA500597FAC /* To_Lower_Case.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = To_Lower_Case.cpp; sourceTree = "<group>"; };
+		1068F2892598C7D700C66CD3 /* Check_If_Two_String_Arrays_are_Equivalent.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Check_If_Two_String_Arrays_are_Equivalent.cpp; sourceTree = "<group>"; };
 		106A3AB924D839DB00B7F186 /* Count_Good_Triplets.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Count_Good_Triplets.cpp; sourceTree = "<group>"; };
 		1073BA9225780E2A00B798BA /* Check_Array_Formation_Through_Concatenation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Check_Array_Formation_Through_Concatenation.cpp; sourceTree = "<group>"; };
 		107E63EC256F74D4003A5D21 /* Build_an_Array_With_Stack_Operations.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Build_an_Array_With_Stack_Operations.cpp; sourceTree = "<group>"; };
@@ -119,6 +122,7 @@
 		10C9575D24CF539800AE8F32 /* Defanging_an_IP_Address.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Defanging_an_IP_Address.cpp; sourceTree = "<group>"; };
 		10C9575F24CF566F00AE8F32 /* Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp; sourceTree = "<group>"; };
 		10CF679A24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Final_Prices_With_a_Special_Discount_in_a_Shop.cpp; sourceTree = "<group>"; };
+		10D030A325A0733C006B4B25 /* Count_of_Matches_in_Tournament.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Count_of_Matches_in_Tournament.cpp; sourceTree = "<group>"; };
 		10D8D8B2256E2346007DBAC9 /* Fibonacci_Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Fibonacci_Number.cpp; sourceTree = "<group>"; };
 		10D92FA524D066AA003566B2 /* Jewels_and_Stones.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Jewels_and_Stones.cpp; sourceTree = "<group>"; };
 		10D92FA824D06C63003566B2 /* Shuffle_String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Shuffle_String.cpp; sourceTree = "<group>"; };
@@ -223,6 +227,8 @@
 				100517DD25524AF200ABE9B9 /* Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp */,
 				10A7BD902566DAF300AED297 /* Reverse_Words_in_a_String_III.cpp */,
 				10D95616256ACB1B006C0EE5 /* Two_Sum.cpp */,
+				1068F2892598C7D700C66CD3 /* Check_If_Two_String_Arrays_are_Equivalent.cpp */,
+				10D030A325A0733C006B4B25 /* Count_of_Matches_in_Tournament.cpp */,
 			);
 			path = "Leetcode CPP Answers";
 			sourceTree = "<group>";
@@ -288,6 +294,7 @@
 				10D97FBC24E3895400D591C7 /* Unique_Morse_Code_Words.cpp in Sources */,
 				10D92FA624D066AA003566B2 /* Jewels_and_Stones.cpp in Sources */,
 				1016048F24E7BEBD00DD5712 /* Count_Negative_Numbers_in_a_Sorted_Matrix.cpp in Sources */,
+				10D030A425A0733C006B4B25 /* Count_of_Matches_in_Tournament.cpp in Sources */,
 				10B9AF9424E0E337000E50F7 /* Destination_City.cpp in Sources */,
 				102BD23E25404C120044D47D /* Maximum_Nesting_Depth_of_the_Parentheses.cpp in Sources */,
 				10458AB924D2D16B00ACCFC2 /* Split_a_String_in_Balanced_Strings.cpp in Sources */,
@@ -321,6 +328,7 @@
 				10D9561A256ACFD3006C0EE5 /* Main.cpp in Sources */,
 				10F9E63625720A810014E512 /* N-ary_Tree_Postorder_Traversal.cpp in Sources */,
 				1083C91B24F8D14700A169C1 /* Self_Dividing_Numbers.cpp in Sources */,
+				1068F28A2598C7D700C66CD3 /* Check_If_Two_String_Arrays_are_Equivalent.cpp in Sources */,
 				10C9575E24CF539800AE8F32 /* Defanging_an_IP_Address.cpp in Sources */,
 				10E1E5E124D1DD8C006297C9 /* XOR_Operation_in_an_Array.cpp in Sources */,
 				10D92FA924D06C64003566B2 /* Shuffle_String.cpp in Sources */,
