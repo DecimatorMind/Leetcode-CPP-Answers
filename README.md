@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Language-C++-blue)
 ![](https://img.shields.io/badge/Website-LeetCode-yellow)
 ![](https://img.shields.io/badge/IDE-Xcode-black)
+![](https://img.shields.io/badge/IDE-PranjalB-green)
 
 # Leetcode-CPP-Answers
 My solutions for LeetCode questions in CPP
