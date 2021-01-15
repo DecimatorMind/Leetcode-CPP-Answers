@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Language-C++-blue)
 ![](https://img.shields.io/badge/Website-LeetCode-yellow)
 ![](https://img.shields.io/badge/IDE-Xcode-black)
+![](https://img.shields.io/badge/Author-PranjalB-green)
 
 # Leetcode-CPP-Answers
 My solutions for LeetCode questions in CPP
@@ -24,3 +25,6 @@ Also the print statements need to be replaced by the return statement.
 One can just replace the functions in the question to the function in the files of the repositories.
 
 Please upvote the solutions in Leetcode for the username *PranjalB*.
+
+One can also find the detailed explaination in the forums of the question in the username *PranjalB*
+
