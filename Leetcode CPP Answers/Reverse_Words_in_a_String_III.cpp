@@ -13,25 +13,27 @@ using namespace std;
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> result;
-        string temp = "",solution = "";
-        for(int i = 0;i < s.length();i++){
-            if(s[i] != ' '){
-                temp += s[i];
-            } else {
-                result.push_back(temp);
-                temp = "";
-           }
-        }
-        result.push_back(temp);
-        for(int i = 0;i < result.size();i++){
-            for(int j = int(result[i].size());j >= 0;j--){
-                solution += result[i][j];
-            }
-            if(i != result.size()-1){
-                solution += " ";
+        vector<string>temp;
+        string flag="";
+        for(int i=0;i<s.size();i++){
+            if(s[i]==' '){
+                temp.push_back(" ");
+                temp.push_back(flag);
+                flag="";
+            }else{
+                flag+=s[i];
             }
         }
-        return solution;
+        temp.push_back(" ");
+        temp.push_back(flag);
+        for(int i=0;i<temp.size();i++){
+            if(temp[i]!=" ")
+                reverse(temp[i].begin(),temp[i].end());
+        }
+        s="";
+        for(int i=1;i<temp.size();i++){
+            s+=temp[i];
+        }
+        return s;
     }
 };
