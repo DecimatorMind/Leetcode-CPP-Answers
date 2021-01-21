@@ -46,6 +46,7 @@
 		10B5FFD3250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10B5FFD2250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp */; };
 		10B9AF9424E0E337000E50F7 /* Destination_City.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10B9AF9324E0E337000E50F7 /* Destination_City.cpp */; };
 		10C05B0325078ACD00233AD4 /* Hamming_Distance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C05B0225078ACD00233AD4 /* Hamming_Distance.cpp */; };
+		10C45ECF25B6C34000C3FA15 /* Calculate_Money_in_Leetcode_Bank.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C45ECE25B6C34000C3FA15 /* Calculate_Money_in_Leetcode_Bank.cpp */; };
 		10C9575E24CF539800AE8F32 /* Defanging_an_IP_Address.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C9575D24CF539800AE8F32 /* Defanging_an_IP_Address.cpp */; };
 		10C9576024CF566F00AE8F32 /* Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C9575F24CF566F00AE8F32 /* Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp */; };
 		10CF679B24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10CF679A24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp */; };
@@ -121,6 +122,7 @@
 		10B5FFD2250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Squares_of_a_Sorted_Array.cpp; sourceTree = "<group>"; };
 		10B9AF9324E0E337000E50F7 /* Destination_City.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Destination_City.cpp; sourceTree = "<group>"; };
 		10C05B0225078ACD00233AD4 /* Hamming_Distance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Hamming_Distance.cpp; sourceTree = "<group>"; };
+		10C45ECE25B6C34000C3FA15 /* Calculate_Money_in_Leetcode_Bank.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Calculate_Money_in_Leetcode_Bank.cpp; sourceTree = "<group>"; };
 		10C9575D24CF539800AE8F32 /* Defanging_an_IP_Address.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Defanging_an_IP_Address.cpp; sourceTree = "<group>"; };
 		10C9575F24CF566F00AE8F32 /* Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp; sourceTree = "<group>"; };
 		10CF679A24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Final_Prices_With_a_Special_Discount_in_a_Shop.cpp; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				10B17A4024FA459E00E10CFC /* N-Repeated_Element_in_Size_2N_Array.cpp */,
 				10DBB0B524FB00860021137E /* Robot_Return_to_Origin.cpp */,
 				10C05B0225078ACD00233AD4 /* Hamming_Distance.cpp */,
+				10C45ECE25B6C34000C3FA15 /* Calculate_Money_in_Leetcode_Bank.cpp */,
 				10B5FFD0250A6774005B6E0F /* DI_String_Match.cpp */,
 				10B5FFD2250A6E55005B6E0F /* Squares_of_a_Sorted_Array.cpp */,
 				109C441D250DB8B0001C77B5 /* Array_Partition_I.cpp */,
@@ -348,6 +351,7 @@
 				10CF679B24F2744900D8D9E2 /* Final_Prices_With_a_Special_Discount_in_a_Shop.cpp in Sources */,
 				1051CD4924ECCB90005FAEE4 /* Flipping_an_Image.cpp in Sources */,
 				1016049124E7C2D100DD5712 /* Find_N_Unique_Integers_Sum_up_to_Zero.cpp in Sources */,
+				10C45ECF25B6C34000C3FA15 /* Calculate_Money_in_Leetcode_Bank.cpp in Sources */,
 				108A3F4524D6280900A06DD3 /* Minimum_Time_Visiting_All_Points.cpp in Sources */,
 				10E1105A24E6B51700E4D9F5 /* Decrypt_String_from_Alphabet_to_Integer_Mapping.cpp in Sources */,
 				103653DC25A54FC300D6003C /* Determine_if_String_Halves_Are_Alike.cpp in Sources */,
