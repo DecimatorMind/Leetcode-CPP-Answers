@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/followers/DecimatorMind?label=Follow&style=social)
+
+
 ![](https://img.shields.io/badge/Language-C++-blue)
 ![](https://img.shields.io/badge/Website-LeetCode-yellow)
 ![](https://img.shields.io/badge/IDE-Xcode-black)
