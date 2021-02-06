@@ -30,7 +30,7 @@ One can also find the detailed explaination in the forums of the question in the
 
 # File Directory
 
-    ├── Leetcode\ CPP\ Answers
+        ├── Leetcode\ CPP\ Answers
     │   ├── Array_Partition_I.cpp
     │   ├── Build_an_Array_With_Stack_Operations.cpp
     │   ├── Calculate_Money_in_Leetcode_Bank.cpp
